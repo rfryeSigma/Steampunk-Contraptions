@@ -25,32 +25,44 @@ The classic article on circuit complexity is Nielsen's clearly organized and bea
 ```
   Michael A. Nielsen
   A geometric approach to quantum circuit lower bounds
-  [arxiv](https://arxiv.org/pdf/quant-ph/0502070.pdf), 2/2005, 29 pages
 ```
+
+(https://arxiv.org/pdf/quant-ph/0502070.pdf), 2/2005, 29 pages
+
 He finds a lower bound on the minimal size in the length of the minimal geodesic between a gate, U, and the identity, I, where length is defined by a Finsler metric on the manifold SU(2^n). Finding the length of the minimal Pauli geodesic passing from I to U is
 equivalent to solving an exponential size instance of the closest vector in a lattice problem (CVP).
 
 Other articles worth reading are
+
+#### Latorre
 ```
   J.I. Latorre and M.A. Mart´ın-Delgado
   The Majorization Arrow in Quantum Algorithm Design
-  [arxiv](https://arxiv.org/pdf/quant-ph/0111146.pdf), 12/2001, 5 pages
 ```
 
+(https://arxiv.org/pdf/quant-ph/0111146.pdf), 12/2001, 5 pages
+
+####  Vallejos
 ```
   Raúl O. Vallejos and Fernando de Melo
   The principle of majorization: application to random quantum circuits
-  (arxiv](https://arxiv.org/pdf/2102.09999.pdf), 2/2021, 8 pages
 ```
 
+(https://arxiv.org/pdf/2102.09999.pdf), 2/2021, 8 pages
+
+####  Haferkamp
 ```
   Jonas Haferkamp, Philippe Faist, Naga B. T. Kothakonda, Jens Eisert, and Nicole Yunger Halpern
   Linear growth of quantum circuit complexity
-  [arxiv](https://arxiv.org/pdf/2106.05305.pdf), 12/2021, 20 pages
 ```
 
+(https://arxiv.org/pdf/2106.05305.pdf), 12/2021, 20 pages
+
+#### Halpern
 ```
   Nicole Yunger Halpern, Naga B. T. Kothakonda, Jonas Haferkamp, Anthony Munson, Jens Eisert, and Philippe Faist
   Resource theory of quantum uncomplexity
-  [arxiv](https://arxiv.org/pdf/2110.11371.pdf), 12/2022, 15 pages
 ```
+
+(https://arxiv.org/pdf/2110.11371.pdf), 12/2022, 15 pages
+
