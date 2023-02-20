@@ -84,3 +84,11 @@ Other ✍️ articles worth reading are
 
 (https://arxiv.org/pdf/2110.11371.pdf), 12/2022, 15 pages
 
+## Benchmarks
+Each manufacturer of quantum computers chooses a benchmark that emphasizes the advantage of their implementation.
+This [paper on Application-Oriented Perfomance Benchmarks](https://arxiv.org/pdf/2110.03137.pdf)
+recommends an extension of IBM's Quantum Volume metric. An image from the paper shows that only the simplest algorithms have decent performance
+inside a typical circuit:
+
+![image](https://user-images.githubusercontent.com/40242095/220201162-160d6f94-9add-4bc1-a8bf-568feabb52e8.png)
+
